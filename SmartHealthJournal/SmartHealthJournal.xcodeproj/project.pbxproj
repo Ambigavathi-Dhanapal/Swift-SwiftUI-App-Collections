@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C87188C62E1D0539005A05E1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C87188C12E1D0539005A05E1 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		C8D0AF782E1BA473003F76AB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C87188C12E1D0539005A05E1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C8D0AF682E1BA470003F76AB /* SmartHealthJournal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartHealthJournal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8D0AF772E1BA473003F76AB /* SmartHealthJournalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmartHealthJournalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8D0AF812E1BA473003F76AB /* SmartHealthJournalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmartHealthJournalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +93,7 @@
 		C8D0AF5F2E1BA470003F76AB = {
 			isa = PBXGroup;
 			children = (
+				C87188C12E1D0539005A05E1 /* README.md */,
 				C8D0AF6A2E1BA470003F76AB /* SmartHealthJournal */,
 				C8D0AF7A2E1BA473003F76AB /* SmartHealthJournalTests */,
 				C8D0AF842E1BA473003F76AB /* SmartHealthJournalUITests */,
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C87188C62E1D0539005A05E1 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
