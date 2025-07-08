@@ -1,70 +1,52 @@
 # Swift-SwiftUI-App-Collections
 
-A curated collection of iOS applications built using **Swift** and **SwiftUI**.  
-This repository serves as a personal portfolio and learning archive for reusable patterns, components, and complete iOS app implementations.
+A collection of iOS apps built using **Swift** and **SwiftUI**.  
+This repo showcases personal projects, reusable patterns, and learning experiments across various Apple frameworks.
 
 ---
 
-## 📱 Included Projects
+## 🔍 About Me
 
-### 1. **SmartHealthJournal**
-A modern iOS journaling app with the following features:
-- ✍️ Mood-based daily journaling (typed or OCR scanned)
-- 📊 Sentiment analysis using Apple’s Natural Language framework
-- 🧠 Mood and Sentiment bar charts with toggle views
-- ❤️ HealthKit integration (steps, heart rate, sleep)
-- 🔔 Daily journaling reminders via local notifications
-- 📷 OCR scanner support (Vision Framework)
-- 🔍 Search, filter, and full CRUD for entries
-- 📈 Analytics dashboard and mood trends
-- 🗃️ SwiftData for persistence
+👩‍💻 **Ambigavathi Dhanapal**  
+iOS/macOS Developer with 12+ years of experience  
+Currently exploring **AI/ML**, **SwiftData**, and **HealthKit**  
+📍 Open to feedback, and exciting projects!
 
-More projects will be added soon...
+🔗 GitHub: [@Ambigavathi-Dhanapal](https://github.com/Ambigavathi-Dhanapal)
 
 ---
 
-## 🛠 Tech Stack
+## 📁 Projects
 
-- Swift 5 / SwiftUI
-- Core ML (Natural Language)
-- Vision (OCR)
-- HealthKit
-- NotificationCenter
-- SwiftData
-- Charts (Swift Charts API)
-- Modular MVVM architecture
+Each app lives in its own folder with full source code and a separate README.
+
+- `SmartHealthJournal` – Sentiment-based journaling app with OCR, HealthKit, and SwiftData  
+- (More coming soon...)
 
 ---
 
-## 📂 Project Structure
+## 🧰 Tech Highlights
 
-Each app resides in its own folder with:
-- Full source code
-- Assets
-- README (if applicable)
+- Swift 5, SwiftUI, MVVM
+- Apple’s Natural Language & Vision frameworks
+- Swift Charts for data visualization
+- HealthKit & NotificationCenter
+- SwiftData for persistence
 
 ---
 
-## 📌 How to Use
+## 🚀 Getting Started
 
-1. Clone the repository
-2. Open any `.xcodeproj` or `.xcodeworkspace`
-3. Run on Xcode 15+ (iOS 17+ target)
+1. Clone the repo
+2. Open `.xcodeproj` of any app
+3. Run on **Xcode 15+** (iOS 17+)
 
 ---
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](LICENSE).
+MIT License
 
 ---
 
-## 👤 Author
-
-**Ambigavathi Dhanapal**  
-iOS/macOS Developer | ML Learner  
-🔗 GitHub: [@Ambigavathi-Dhanapal](https://github.com/Ambigavathi-Dhanapal)
-
----
-
-> ⭐️ Feel free to fork, use, and share. Contributions welcome!
+> 🚧 This is a growing collection. Contributions and ideas are welcome!
